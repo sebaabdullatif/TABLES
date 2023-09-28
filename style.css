@@ -1,0 +1,57 @@
+#maintable {
+  display: inline-block;
+  position: fixed;
+  scale: 0.5;
+  z-index: -1;
+  width: 50%;
+  top: -20px;
+}
+
+#table1 {
+  position: static;
+  scale: 0.5;
+  z-index: 2;
+  width: 50%;
+}
+
+#table2 {
+  position: static;
+  scale: 0.5;
+  z-index: 2;
+  width: 50%;
+}
+
+#table3 {
+  position: static;
+  scale: 0.5;
+  z-index: 2;
+  width: 50%;
+}
+
+#table4 {
+  position: static;
+  scale: 0.5;
+  z-index: 2;
+  width: 50%;
+}
+
+#table5 {
+  position: static;
+  scale: 0.5;
+  z-index: 2;
+  width: 50%;
+  margin-bottom: 0%;
+}
+
+p {
+  position: absolute;
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  padding-bottom: 5em;
+  font-size: 7em;
+  text-align: center;
+}
